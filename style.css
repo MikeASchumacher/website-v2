@@ -289,6 +289,11 @@ a::before {
     border-style: solid;
 }
 
+#three #portrait {
+    width: 20%;
+    margin: 5px;
+}
+
 .split-view {
     min-height: 100%;
     justify-content: center;
